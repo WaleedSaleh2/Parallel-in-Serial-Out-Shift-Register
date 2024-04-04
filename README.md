@@ -12,8 +12,6 @@ This Project is to design a digital circuit that can find the highest 1- numbers
 # This figure shows the design of the circuit
 ![image](https://github.com/WaleedSaleh2/Parallel-in-Serial-Out-Shift-Register/assets/136861871/62d5b885-ad50-430b-922d-3703dc143e66)
 
-Co-authored-by: WaleedSaleh2
-
   
 
   
